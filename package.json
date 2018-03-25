@@ -1,0 +1,19 @@
+{
+  "fitbit": {
+    "appUUID": "feb7d5ff-5231-40b4-a8ac-be8dc838ed90",
+    "appType": "clockface",
+    "appDisplayName": "Long Shadow",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "meson",
+      "higgs"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Long Shadow"
+      }
+    }
+  }
+}
